@@ -33,7 +33,7 @@ export default function RevenueCharts() {
               <h2 className="text-white opacity-70 text-[16px] font-medium">
                 Revenue
               </h2>
-              <span className="w-[40px] text-center py-1 text-sm font-medium bg-[#1C3851] text-[#31DECF] text-[11px] rounded-full">
+              <span className="w-[50px] text-center py-1 text-sm font-medium bg-[#1C3851] text-[#31DECF] text-[11px] rounded-full">
                 +{percentage}%
               </span>
             </div>
